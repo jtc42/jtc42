@@ -1,5 +1,5 @@
 <p>
-  <img align="left" width="300" height="300" src="https://raw.githubusercontent.com/jtc42/jtc42/main/emblemWO3.svg"/>
+  <img align="left" width="250" height="250" style="padding: 0 24px 24px 0;" src="https://raw.githubusercontent.com/jtc42/jtc42/main/emblemWO3.svg"/>
   <p>
     <h1 align="left">Joel T. Collins</h1>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jtc42&show_icons=true&locale=en" alt="jtc42" />
