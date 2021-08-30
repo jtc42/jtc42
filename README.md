@@ -38,8 +38,3 @@
 ### Social
 
 [![Twitter](https://img.shields.io/badge/jtc9242-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jtc9242)
-
-### Etc.
-
-[![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/gb/artist/arity/400622456)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/2L3DrAnvKC27pQsRvFdIcS?si=9zPtGheqRLy2zdfidhq5XA&dl_branch=1)
