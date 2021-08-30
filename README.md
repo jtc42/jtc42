@@ -38,3 +38,8 @@
 ### Social
 
 [![Twitter](https://img.shields.io/badge/jtc9242-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jtc9242)
+
+### Academic
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Joel-Collins-2)
+[![Google Scholar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label=)](https://scholar.google.co.uk/citations?user=lD7J40QAAAAJ&hl=en)
