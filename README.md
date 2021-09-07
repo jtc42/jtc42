@@ -1,6 +1,5 @@
 <p>
-  <img align="left" width="190" height="190" style="vertical-align:top; margin:4px 24px 24px 4px" src="https://raw.githubusercontent.com/jtc42/jtc42/main/emblemWO3C.svg"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jtc42&show_icons=true&locale=en&theme=graywhite&border_radius=0" alt="jtc42" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jtc42&show_icons=true&locale=en&theme=graywhite&border_radius=0" alt="jtc42" />
 </p>
 
 ### Languages and Tools
