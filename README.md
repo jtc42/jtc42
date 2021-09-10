@@ -2,10 +2,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jtc42&show_icons=true&locale=en&theme=graywhite&border_radius=0" alt="jtc42" />
 </p>
 
-### Other Git
-
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/users/jtc42/contributed)
-
 ### Languages and Tools
 
 
@@ -46,3 +42,7 @@
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Joel-Collins-2)
 [![Google Scholar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label=)](https://scholar.google.co.uk/citations?user=lD7J40QAAAAJ&hl=en)
+
+### Other Git
+
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/users/jtc42/contributed)
