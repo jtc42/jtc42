@@ -2,6 +2,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jtc42&show_icons=true&locale=en&theme=graywhite&border_radius=0" alt="jtc42" />
 </p>
 
+### Other Git
+
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/users/jtc42/contributed)
+
 ### Languages and Tools
 
 
