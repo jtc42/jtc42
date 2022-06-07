@@ -1,6 +1,9 @@
 [![Twitter](https://img.shields.io/badge/jtc9242-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jtc9242)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-collins-b5415896/)
+
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Joel-Collins-2)
 [![Google Scholar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label=)](https://scholar.google.co.uk/citations?user=lD7J40QAAAAJ&hl=en)
+
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/users/jtc42/contributed)
 
 #### Languages and Tools
